@@ -10,6 +10,10 @@ namespace SecondApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" Text pentru testarea unei modificari");
+
+            Console.ReadKey();
+
         }
     }
 }
