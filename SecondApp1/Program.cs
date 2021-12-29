@@ -12,6 +12,8 @@ namespace SecondApp1
         {
             Console.WriteLine(" Text pentru testarea unei modificari");
 
+            Console.WriteLine("Text aditional");
+
             Console.ReadKey();
 
         }
