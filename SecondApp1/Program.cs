@@ -14,6 +14,8 @@ namespace SecondApp1
 
             Console.WriteLine("Text aditional");
 
+            Console.WriteLine("My first testing branch");
+
             Console.ReadKey();
 
         }
